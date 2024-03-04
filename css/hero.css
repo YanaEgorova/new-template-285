@@ -325,5 +325,7 @@
   .policy-item {
     text-align: left;
     padding: 3rem;
+    max-width: 60rem;
+    margin: 0 auto;
   }
 }
